@@ -3,6 +3,7 @@
 one:
   name: MyString
   content: MyText
+  user: andrew
 
 two:
   name: MyString
