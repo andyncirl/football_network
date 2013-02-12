@@ -1,4 +1,4 @@
-class StatusesController < ApplicationController
+ class StatusesController < ApplicationController
   # GET /statuses
   # GET /statuses.json
   def index
