@@ -1,11 +1,11 @@
 andrew:
-  first_name: "Andrew"
-  last_name: "Griffith"
-  email: "andyncirl@gmail.com"
-  profile_name: "andygriffith"
+first_name: "Andrew"
+last_name: "Griffith"
+email: "andyncirl@gmail.com"
+profile_name: "andygriffith"
 
 dave
-  first_name: "Robbie"
-  last_name: "Keane"
-  email: "robbie@gmail.com"
-  profile_name: "robbiekeane"
+first_name: "Robbie"
+last_name: "Keane"
+email: "robbie@gmail.com"
+profile_name: "robbiekeane"
