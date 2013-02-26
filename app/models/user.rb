@@ -19,6 +19,10 @@ class User < ActiveRecord::Base
     first_name + " " + last_name
   end
 
+  def to_param
+     profile_name
+  end
+
   validates :profile_name, presence: true,
                            uniqueness: true,
                            format: {
